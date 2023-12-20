@@ -1,6 +1,6 @@
 # Repositorio codigos web
 
-### Lenguajes utilizados HTML, CSS y JS
+### Lenguajes utilizados HTML, CSS, JS y PHP
 
 ##### Página web de 0 a 100
 
