@@ -18,3 +18,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     exit();
 }
 ?>
+
+    // No usar en entorno productivo, más de un CVE reportado
+    // Uso Educativo
